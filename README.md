@@ -1,6 +1,6 @@
 # Sistem Booking Lapangan Futsal (Laravel 12)
 
-Aplikasi web untuk memesan lapangan futsal secara online: kelola lapangan, slot jadwal, dan transaksi booking berbasis Laravel 12 + Tailwind + Vite.
+Aplikasi web untuk memesan lapangan futsal secara online: kelola lapangan, slot jadwal, dan transaksi booking berbasis Laravel 12 + Bootsrap
 
 ## Fitur Utama
 - ✅ Autentikasi pengguna (login/registrasi, reset password) — gunakan Laravel Breeze/Fortify.
